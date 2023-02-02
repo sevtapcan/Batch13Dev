@@ -1,4 +1,5 @@
 public  class Calculator {
+    //parameterless
     //by default it is private, sowe use public void here.
     public void welcomeMessage(){
         system.debug('welcome to apex calc');
